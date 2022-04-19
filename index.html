@@ -1,41 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Instgram</title>
     <link rel="stylesheet" href="style.css">
-    <title>Instagram</title>
 </head>
+
 <body>
-    <div class="instagram-wrapper">
-        <div class="instagram-phone">
-            <img src="./img/instagram-celular.png" alt="celular">
+
+    <section class="main">
+
+        <div class="side-left">
+            <img src="./img/instagram2.png" alt="Tela Inicial após login">
         </div>
-        <div class="instagram-continue">
-            <div class="group">
-                <img src="./img/instagram-logo.png" class="instagram-logo" alt="instagram logo">
-                <div class="profile-photo">
-                    <img src="./img/perfil-instagram.jpg" alt="foto de perfil">
+
+        <div class="side-right">
+
+            <div class="box-white login">
+                <img id="logo" src="./img/instagram-name.png" alt="Logo Instgram">
+                <span class="img-user">
+                    <img id="img-circle" src="./img/foto-user.jpg" alt="Foto Usuário">
+                </span>
+                <a href="https://www.instagram.com/">
+                    <button type="button" class="btn-blue">Continuar como "Nome Usuario</button>
+                </a>
+                <button class="btn-white">Remover Conta</button>
+
+            </div>
+
+            <div class="box-white change">
+                <span>Não é "Nome do Usuário</span>
+                <div>
+                    <button class="btn-white">Trocar de conta</button>
+                    <span>ou</span>
+
+                    <button class="btn-white">Cadastre-se</button>
+
                 </div>
-                <a href="#" class="instagram-login">Continue como sprucegabriela</a>
-                <a href="#" class="instagram-logout">Remover conta</a>
             </div>
-            <div class="group">
-                <p class="not-account">Não é sprucegabriela?</p>
-                <p class="not-account">
-                    <span class="link-blue">Alternar contas</span>
-                    ou
-                    <span class="link-blue">Inscreva-se</span>
-                </p>
-            </div>
-            <div class="get-the-app">
-                <p class="get-app">Baixe o aplicativo</p>
-                <div class="download">
-                    <a href="#" class="app-download"></a>
-                    <a href="#" class="app-download"></a>
+
+            <div class="download">
+                <span>Obtenha o Aplicativo</span>
+                <div class="img-logos">
+                    <img src="./img/appstore.png" alt="Baixar na appstore">
+                    <img src="./img/googleplay.png" alt="Baixar no googleplay">
                 </div>
             </div>
+
         </div>
-    </div>
+
+
+    </section>
+
+    <footer>
+
+        <menu class="footer-menu">
+            <ul>
+                <li>Meta</li>
+                <li>Sobre</li>
+                <li>Blog</li>
+                <li>Carreiras</li>
+                <li>Ajuda</li>
+                <li>API</li>
+                <li>Privacidade</li>
+                <li>Termos</li>
+                <li>Principais contas</li>
+                <li>Hashtags</li>
+                <li>Localizações</li>
+                <li>Instagram Lite</li>
+            </ul>
+            <ul>
+                <li>Dança</li>
+                <li>Comida e bebidas</li>
+                <li>Casa e Jardim</li>
+                <li>Música</li>
+                <li>Artes Visuais</li>
+            </ul>
+        </menu>
+
+        <div class="footer">
+            <span>
+                <select class="select" name="select">
+                    <option value="valor1">Português (Brasil)</option>
+                    <option value="valor2">Outras em Breve</option>
+                </select>
+            </span>
+            <span>@2022 Clone Login Instagram by Rahman Brussolo</span>
+        </div>
+
+        <div>
+
+        </div>
+
+    </footer>
+
 </body>
+
 </html>

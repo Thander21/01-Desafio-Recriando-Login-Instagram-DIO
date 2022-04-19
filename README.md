@@ -1,10 +1,17 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Desafio Recriando Login Instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+A ideia desse projeto foi montar do zero para fixar o Flexbox, e clonar com o máximo de precisão a pagina de login do Instagram.
 
-### Os requisitos são:
+Esse projeto foi meu segundo projeto utilizando apenas HTML5 e CCS com Flexbox, assiste o passo a passo apenas do HTML pra ter uma noção, e fiz todo o CSS na mão, o que me fez demorar um pouco com constante pesquisa e tentativa e erro, mas pude assimilar muito melhor os conceitos do Flexbox e lembrar mais de atributos do CSS
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+CSS3 já esta bem claro e Flexbox entendi melhor os conceitos, acredito que 1 ou 2 projetos a mais para treinamento seja o suficiente para fixar por completo os conceitos aprendidos.
 
-## 🚀 Let's code! 🚀
+- Utilizado HTML5
+
+- Utilizado CCS3
+
+- utilizado Flexbox do CSS
+
+- 2 Responsividade
+  - com @media (max-width: 876px) Responsividade
+  - com @media (max-width: 451px) igualmente funciona a pagina do instagram.
