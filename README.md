@@ -12,6 +12,6 @@ CSS3 já esta bem claro e Flexbox entendi melhor os conceitos, acredito que 1 ou
 
 - utilizado Flexbox do CSS
 
-- 2 Responsividade
+- 2 Responsividade igualmente funciona a pagina do instagram
   - com @media (max-width: 876px) Responsividade
-  - com @media (max-width: 451px) igualmente funciona a pagina do instagram.
+  - com @media (max-width: 451px) igualmente funciona a pagina do instagram
