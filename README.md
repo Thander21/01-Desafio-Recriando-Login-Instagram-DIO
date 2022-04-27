@@ -1,5 +1,7 @@
 # Desafio Recriando Login Instagram
 
+![alt text](print.png)
+
 A ideia desse projeto foi montar do zero para fixar o Flexbox, e clonar com o máximo de precisão a pagina de login do Instagram.
 
 Esse projeto foi meu segundo projeto utilizando apenas HTML5 e CCS com Flexbox, assiste o passo a passo apenas do HTML pra ter uma noção, e fiz todo o CSS na mão, o que me fez demorar um pouco com constante pesquisa e tentativa e erro, mas pude assimilar muito melhor os conceitos do Flexbox e lembrar mais de atributos do CSS
