@@ -1,5 +1,7 @@
 # Desafio Recriando Login Instagram
 
+<a href="https://thander21.github.io/DIO-Desafio-Recriando-Login-Instagram/" target="_blank">Veja o Site no GitHub Pages</a>
+
 ![alt text](print.png)
 
 A ideia desse projeto foi montar do zero para fixar o Flexbox, e clonar com o máximo de precisão a pagina de login do Instagram.
